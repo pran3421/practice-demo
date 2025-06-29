@@ -1,2 +1,2 @@
 # practice-demo
-Author - Pranshu
+Author - Pranshu Gupta
